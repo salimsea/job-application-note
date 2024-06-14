@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="2.0.143" />
+    <PackageReference Include="dapper.contrib" Version="2.0.78" />
+    <PackageReference Include="dapper.simplecrud" Version="2.3.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Z.Dapper.Plus" Version="7.3.0" />
+    <PackageReference Include="Npgsql.NetTopologySuite" Version="7.0.6" />
+  </ItemGroup>
+
+</Project>
