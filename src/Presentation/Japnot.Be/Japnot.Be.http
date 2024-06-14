@@ -1,0 +1,6 @@
+@Japnot.Be_HostAddress = http://localhost:5081
+
+GET {{Japnot.Be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
