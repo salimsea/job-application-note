@@ -13,13 +13,13 @@ Job Application Note is an innovative platform designed to help job seekers easi
 
 - **Backend:** C# with .NET 8 | Clean Architecture with Domain Driven Design (DDD) Microservices
 - **Frontend:** ReactJS
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL 16
 - **Authentication:** JWT (Json Web Token)
 
 ## Prerequisites
 
 - .NET 8 SDK
-- PostgreSQL
+- PostgreSQL 16
 - Visual Studio 2022 (or any other compatible IDE)
 
 ## Getting Started
@@ -27,8 +27,8 @@ Job Application Note is an innovative platform designed to help job seekers easi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/salimsea/japnot.git
-cd japnot
+git clone https://github.com/salimsea/job-application-note.git
+cd job-application-note
 
 ```
 ## Documentation
