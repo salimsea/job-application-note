@@ -1,6 +1,6 @@
 # Job Application Note
 
-<img width="300" alt="image" src="https://github.com/salimsea/japnot/assets/49223890/c6c2b66c-d9bb-4e08-b79a-beaed970df5d">
+<img width="300" alt="image" src="https://github.com/salimsea/job-application-note/assets/49223890/484465b5-af72-4b05-b9f9-e64c1caa0879">
 
 Job Application Note is an innovative platform designed to help job seekers easily record, manage, and track their job applications. With an intuitive interface and rich features, users can save application details, add notes, set reminders, and monitor the status of each application. Streamline your job search process with Job Application Note, the all-in-one solution for organizing your future career.
 
@@ -33,10 +33,10 @@ cd japnot
 ```
 ## Documentation
 ### RESTAPI (Swagger)
-<img width="300" alt="image" src="https://github.com/salimsea/japnot/assets/49223890/d0417da9-5e55-4124-9561-0ae6c7f8d66e">
+<img width="300" alt="image" src="https://github.com/salimsea/job-application-note/assets/49223890/0324f7a7-12fe-4dd6-a95e-08cafd10096b">
 
 ### ERD (Entity Relation Database)
-<img width="300" alt="image" src="https://github.com/salimsea/japnot/assets/49223890/889d0f79-6e4f-42ad-895c-af01933c90cb">
+<img width="300" alt="image" src="https://github.com/salimsea/job-application-note/assets/49223890/853a5df3-a7f8-496d-8fa1-c8130b3b995b">
 
 - **1-1:** one to one
 - **1-N:** one to many
